@@ -1,0 +1,17 @@
+@import '../../../styles/base.scss';
+
+.text {
+  @include row(small);
+  @include block(medium);
+}
+
+.text__inner {
+  @include constrain(small);
+}
+
+.text[data-alignment='left'] .text__inner {
+  margin-right: auto;
+}
+.text[data-alignment='right'] .text__inner {
+  margin-left: auto;
+}
