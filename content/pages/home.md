@@ -22,6 +22,8 @@ sections:
     title: RSVP
     text: Kom je ook? Laat het ons even weten, dan houden we daar rekening mee!
     successMessage: Bedankt!
+  - type: venue
+    component: venue
   - type: text
     component: gallery
     title: Dresscode

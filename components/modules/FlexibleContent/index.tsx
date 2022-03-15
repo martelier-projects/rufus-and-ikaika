@@ -6,6 +6,7 @@ import RichText from '../../flexibles/RichText'
 import Directions from '../../flexibles/Directions'
 import Gallery from '../../flexibles/Gallery'
 import RsvpForm from '../../flexibles/RsvpForm'
+import Venue from '../../flexibles/Venue'
 
 export default function FlexibleContent({
   sections,
@@ -30,6 +31,9 @@ export default function FlexibleContent({
         }
         if (section.component === 'rsvp-form') {
           return <RsvpForm key={`flexible-content-${index}`} {...section} />
+        }
+        if (section.component === 'venue') {
+          return <Venue key={`flexible-content-${index}`} {...section} />
         }
 
         return null

@@ -13,10 +13,16 @@ export default function DefaultTemplate({ sections, seo }: Page) {
         <img
           className={styles['default__leaves']}
           aria-hidden="true"
-          src="/images/leaves.jpg"
+          src="/images/leaves.png"
           alt=""
         />
         {sections && <FlexibleContent sections={sections} />}
+        <img
+          className={styles['default__leaves-bottom']}
+          aria-hidden="true"
+          src="/images/leaves-2.png"
+          alt=""
+        />
       </main>
     </>
   )
