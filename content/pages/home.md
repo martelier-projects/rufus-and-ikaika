@@ -7,16 +7,28 @@ sections:
     alignment: right
     heading: h1
     component: rich-text
-    title: Rufus & Ikaikaaaaaa
-    text: "**Lorem Ipsum** is simply dummy text of the printing and typesetting
-      industry. Lorem Ipsum has been the industry's standard dummy text ever
-      since the 1500s, when an unknown printer took a galley of type and
-      scrambled it to make a type specimen book. It has survived not only five
-      centuries, but also the leap into electronic typesetting, remaining
-      essentially unchanged. It was popularised in the 1960s with the release of
-      Letraset sheets containing Lorem Ipsum passages, and more recently with
-      desktop publishing software like Aldus PageMaker including versions of
-      Lorem Ipsum."
+    title: Rufus & Ikaika
+    text: >-
+      **Wij gaan trouwen!** 
+
+
+      Op 3 september 2022 gaan wij trouwen en we hebben jou er graag bij! 
+
+
+      Op deze pagina vind je meer informatie over deze dag en kan je aangeven of je erbij bent. 
+
+
+      De wedding is een 12 jaar en ouder event. 
+
+
+
+
+      Heb je vragen? Mail dan naar rufusenikaika@gmail.com
+
+
+
+
+      Wij hopen jullie allen 3 september 2022 te zien!
   - type: rsvp-form
     component: rsvp-form
     title: RSVP
@@ -28,15 +40,15 @@ sections:
     component: gallery
     title: Dresscode
     images:
+      - image: /images/summer-chic-als-dresscode-dit-draag-je-bruiloft-inspiratie.png
       - image: /images/leaves-flipped.jpeg
-      - image: /images/stock.jpg
+      - image: /images/these-6-outfits-will-earn-you-best-dressed-guest-status-at-every-wedding.jpeg
       - image: /images/leaves-flipped.jpeg
-      - image: /images/locatie.jpg
+      - image: /images/unique-stylish-groom-s-wedding-suit-inspiration-forget-me-not.jpeg
       - image: /images/leaves-flipped.jpeg
-    text: Hier wat meer info over je Dresscode, bijvoorbeeld dat hij Summer chique
-      is! Daarnaast kan je hieronder dus foto's plaatsen. Daarbij is het mooi om
-      afwissellend liggende en staande afbeeldingen te gebruiken als je die
-      hebt. (een minimum van 6 is ook mooi!)
+      - image: /images/summer-chic-3_bruiloft-inspiratie.webp
+    text: De dresscode voor de gehele dag is Summer Chique. Hieronder vind je
+      voorbeelden van deze dresscode ter inspiratie.
   - type: rich-text
     alignment: right
     heading: h2
@@ -45,28 +57,19 @@ sections:
     text: |-
       Er zitten veel leuke eettentjes in de buurt. Dit zijn onze favorieten:
 
-      * a
-      * b
-      * c
-  - type: rich-text
-    alignment: left
-    heading: h2
-    component: rich-text
-    title: Overnachting tips
-    text: >-
-      Wil je lekker in Amsterdam blijven slapen? Deze hotels zijn goed en in de
-      buurt:
-
-
-      * a
-
-      * b
-
-      * c
+      * [Cafe Restaurant Amsterdam](https://cradam.nl/) 
+      * [Braai Amsterdam](https://braaiamsterdam.nl/)
+      * [Cantine de Caron](https://cantinedecaron.nl/)
+      * Dumplings (nassauplein 60) - voor een easy bite and take-away
   - type: directions
     component: directions
     title: Hoe kom ik er
-    text: Hier wat meer info over de venue!
+    text: >-
+      De Westerliefde is van Amsterdam Centraal eenvoudig te bereiken met de
+      bus.
+
+
+      Voor diegene die met de auto komen is er een Qpark naast het Westerpark.
 seo:
   pageTitle: Rufus & Ikaika
   pageDescription: Rufus & Ikaika
