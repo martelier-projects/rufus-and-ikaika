@@ -32,7 +32,12 @@ sections:
   - type: rsvp-form
     component: rsvp-form
     title: RSVP
-    text: Kom je ook? Laat het ons even weten, dan houden we daar rekening mee!
+    text: >-
+      Ben je erbij? Laat het ons voor 1 juli 2022 weten, dan houden we daar
+      rekening mee!
+
+
+      Lukt het je niet om erbij te zijn? Laat het dan voor 1 juli 2022 even weten door te mailen naar rufusenikaika@gmail.com
     successMessage: Bedankt!
   - type: venue
     component: venue
