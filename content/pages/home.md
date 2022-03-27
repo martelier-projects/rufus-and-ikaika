@@ -44,11 +44,15 @@ sections:
       - image: /images/leaves-flipped.jpeg
       - image: /images/these-6-outfits-will-earn-you-best-dressed-guest-status-at-every-wedding.jpeg
       - image: /images/leaves-flipped.jpeg
-      - image: /images/unique-stylish-groom-s-wedding-suit-inspiration-forget-me-not.jpeg
+      - image: /images/436212611ba05f325211c75794a3e612-wedding-guest-dresses-best-dressed.jpeg
       - image: /images/leaves-flipped.jpeg
       - image: /images/summer-chic-3_bruiloft-inspiratie.webp
-    text: De dresscode voor de gehele dag is Summer Chique. Hieronder vind je
-      voorbeelden van deze dresscode ter inspiratie.
+      - image: /images/leaves-flipped.jpeg
+      - image: /images/unique-stylish-groom-s-wedding-suit-inspiration-forget-me-not.jpeg
+    text: |-
+      De dresscode voor de gehele dag is Summer Chique. 
+
+      Hieronder vind je voorbeelden van deze dresscode ter inspiratie.
   - type: rich-text
     alignment: right
     heading: h2
