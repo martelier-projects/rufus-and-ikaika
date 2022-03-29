@@ -23,7 +23,7 @@ sections:
       We hebben slechts drie verzoeken om rekening mee te houden:
 
 
-      1. Het is feest is voor 12 jaar en ouder.
+      1. Onze trouwdag is voor 12 jaar en ouder.
 
       2. Alleen de bruid draagt wit (wit overhemd voor mannen uitgezonderd).
 
@@ -35,11 +35,11 @@ sections:
     component: rsvp-form
     title: RSVP
     text: >-
-      Ben je erbij? Laat het ons voor 1 juli 2022 weten, dan houden we daar
+      Ben je erbij? Laat het ons voor 17 juli 2022 weten, dan houden we daar
       rekening mee!
 
 
-      Lukt het je niet om erbij te zijn? Laat het dan voor 1 juli 2022 even weten door te mailen naar rufusenikaika@gmail.com
+      Lukt het je niet om erbij te zijn? Laat het dan voor 17 juli 2022 even weten door te mailen naar rufusenikaika@gmail.com
     successMessage: Bedankt!
   - type: venue
     component: venue
