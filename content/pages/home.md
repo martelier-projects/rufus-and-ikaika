@@ -20,12 +20,12 @@ sections:
       Geld is natuurlijk niet het meest persoonlijke cadeau ooit, maar om ons met onze huwelijksreis naar Hawaii te helpen is dit toch erg welkom en heeft daarom onze voorkeur.
 
 
-      We hebben slechts drie verzoeken om rekening mee te houden:\
+      We hebben slechts drie verzoeken om rekening mee te houden:
 
 
-      1. Het is feest is voor 12 jaar en ouder.\
+      1. Het is feest is voor 12 jaar en ouder.
 
-      2. Alleen de bruid draagt wit (wit overhemd voor mannen uitgezonderd).\
+      2. Alleen de bruid draagt wit (wit overhemd voor mannen uitgezonderd).
 
       3. Dat je je best doet om er een mooi feestje van te maken.
 
