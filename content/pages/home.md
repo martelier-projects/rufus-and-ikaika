@@ -12,23 +12,25 @@ sections:
       **Wij gaan trouwen!** 
 
 
-      Op 3 september 2022 gaan wij trouwen en we hebben jou er graag bij! 
+      3 September 2022 is de datum dat wij gaan trouwen en we hebben jou er graag bij! \
+
+      Op deze pagina kan je via het RSVP formulier aangeven of je erbij bent. Ook hebben we wat restaurant tips, een route beschrijving (klik op de maps afbeelding) en wat voorbeelden van onze dresscode. Heb je vragen? Mail dan naar rufusenikaika@gmail.com, dan neemt onze ceremoniemeester Maui contact met je op. 
 
 
-      Op deze pagina vind je meer informatie over deze dag en kan je aangeven of je erbij bent. 
+      Geld is natuurlijk niet het meest persoonlijke cadeau ooit, maar om ons met onze huwelijksreis naar Hawaii te helpen is dit toch erg welkom en heeft daarom onze voorkeur.
 
 
-      De wedding is een 12 jaar en ouder event. 
+      We hebben slechts drie verzoeken om rekening mee te houden:\
 
 
+      1. Het is feest is voor 12 jaar en ouder.\
+
+      2. Alleen de bruid draagt wit (wit overhemd voor mannen uitgezonderd).\
+
+      3. Dat je je best doet om er een mooi feestje van te maken.
 
 
-      Heb je vragen? Mail dan naar rufusenikaika@gmail.com
-
-
-
-
-      Wij hopen jullie allen 3 september 2022 te zien!
+      Wij hopen je op 3 september 2022 te zien!
   - type: rsvp-form
     component: rsvp-form
     title: RSVP
