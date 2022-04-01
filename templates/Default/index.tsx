@@ -17,12 +17,6 @@ export default function DefaultTemplate({ sections, seo }: Page) {
           alt=""
         />
         {sections && <FlexibleContent sections={sections} />}
-        <img
-          className={styles['default__leaves-bottom']}
-          aria-hidden="true"
-          src="/images/leaves-2.png"
-          alt=""
-        />
       </main>
     </>
   )
