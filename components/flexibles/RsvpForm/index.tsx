@@ -72,11 +72,6 @@ export default function RsvpForm({
             <label htmlFor="last-name">Achternaam</label>
             <input type="text" name="last-name" />
           </div>
-
-          <div className={styles['rsvp-form__item']}>
-            <label htmlFor="amount">Hoeveel personen</label>
-            <input type="number" name="amount" />
-          </div>
         </div>
 
         <button className={styles['rsvp-form__submit']}>Verstuur</button>
